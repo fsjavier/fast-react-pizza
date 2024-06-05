@@ -1,8 +1,7 @@
-# React + Vite
+# Pizza Delivery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Web app to order pizza from a fictional restaurant. Users can seamlessly add and delete pizzas from their cart and finally confirm their order.
 
-Currently, two official plugins are available:
+Project based on Jonas Schmedtmann's React course.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot](/pizza-delivery.png)
